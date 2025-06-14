@@ -2,7 +2,7 @@
 
 Weather Now is a modern, responsive weather web application that fetches and displays real-time weather data and provides city name suggestions using the OpenWeatherMap API.
 
-**Features: **
+**features**
 
      1.City search with autocomplete suggestions
      2.Real-time weather details including:
