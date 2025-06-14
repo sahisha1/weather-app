@@ -22,4 +22,6 @@ Weather Now is a modern, responsive weather web application that fetches and dis
       2.JavaScript: Handles the frontend logic, API requests, and DOM manipulation.
       3.FontAwesome: Provides the icons used throughout the interface.
       4.OpenWeatherMap API: Supplies real-time weather and geolocation data.
+![Uploading Screen Shot 2025-06-14 at 3.13.48 PM.png…]()
+
 
